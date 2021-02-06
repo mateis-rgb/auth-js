@@ -1,0 +1,34 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "admin",
+			"email": "admin@website.local",
+			"password": "39dfa55283318d31afe5a3ff4a0e3253e2045e43"
+		},
+		{
+			"id": 2,
+			"name": "AS",
+			"email": "SA@S.FER",
+			"password": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220"
+		},
+		{
+			"id": 3,
+			"name": "as",
+			"email": "as@s.dfr",
+			"password": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220"
+		},
+		{
+			"id": 4,
+			"name": "assas",
+			"email": "asssa@f.fr",
+			"password": "7c222fb2927d828af22f592134e8932480637c0d"
+		},
+		{
+			"id": 5,
+			"name": "mateis",
+			"email": "ihdai@dd.fr",
+			"password": "7c222fb2927d828af22f592134e8932480637c0d"
+		}
+	]
+}

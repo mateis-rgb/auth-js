@@ -1,0 +1,26 @@
+{
+  "name": "auth-js",
+  "version": "1.0.0",
+  "description": "Authentication system javascript",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+		"sha1": "^1.1.1"
+  },
+  "devDependencies": {
+    "jquery": "3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateis-rgb/auth-js.git"
+  },
+  "author": "Mateis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateis-rgb/auth-js/issues"
+  },
+  "homepage": "https://github.com/mateis-rgb/auth-js#readme"
+}
