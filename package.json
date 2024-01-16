@@ -1,7 +1,7 @@
 {
   "name": "auth-js",
   "version": "1.0.0",
-  "description": "Authentication system javascript",
+  "description": "Authentication system electronjs",
   "main": "auth.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
