@@ -1,5 +1,5 @@
 # auth-js
-Authentication system javascript
+Authentication system electronjs
 
 To use this package
 
